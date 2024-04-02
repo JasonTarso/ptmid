@@ -1,0 +1,14 @@
+body {
+	text-align: center;	
+	margin-left: auto;
+	margin-rigth: auto;
+	padding-left: 3%;
+	padding-rigth: 3%;
+}
+h2,dl,ul,ol{
+	text-align: left;
+}
+dt {text-indent: 30px;}
+dd {
+	font-weight: bold;
+	text-indent: -20px;}
